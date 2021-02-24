@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ProjectileMotion</string>
+    <string name="buttonTable">TABLE</string>
+    <string name="buttonAnimation">Animation</string>
+    <string name="buttonGraph">Graph</string>
+    <string name="draw">Draw</string>
+    <string name="compute_on_server">Compute on server</string>
+</resources>
